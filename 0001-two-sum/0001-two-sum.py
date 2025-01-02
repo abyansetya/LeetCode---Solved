@@ -1,8 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        map = {}
+        mapp  = {}
         for i in range(len(nums)):
-            complement = target - nums[i]
-            if(complement in map):
-                return [map.get(complement),i]
-            map[nums[i]] = i
+            selisih = target - nums[i]
+            if selisih in mapp:
+                return [mapp[selisih], i]
+            mapp[nums[i]] = i
+        return []
+
+        
