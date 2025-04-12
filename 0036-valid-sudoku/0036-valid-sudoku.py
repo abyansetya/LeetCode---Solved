@@ -3,25 +3,23 @@ class Solution:
         rows = [set() for _ in range(9)]
         cols = [set() for _ in range(9)]
         boxes = [set() for _ in range(9)]
-        
+
         for r in range(9):
             for c in range(9):
                 val = board[r][c]
+
                 if val == ".":
                     continue
-
-                # Cek di baris
+                
                 if val in rows[r]:
                     return False
                 rows[r].add(val)
 
-                # Cek di kolom
                 if val in cols[c]:
                     return False
                 cols[c].add(val)
 
-                # Cek di box
-                box_index = (r // 3) * 3 + (c // 3)
+                box_index = (r//3) * 3 + (c//3)
                 if val in boxes[box_index]:
                     return False
                 boxes[box_index].add(val)
