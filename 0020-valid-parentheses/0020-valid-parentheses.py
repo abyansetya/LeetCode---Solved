@@ -1,16 +1,16 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        map = { '}' : '{',
-               ')': '(', 
-               ']':'['
-              }
+        bracket_map = {')': '(', '}': '{', ']': '['}
+
         for char in s:
-            if(char in map):
-                if(len(stack) > 0 and stack[len(stack) -1] == map[char]):
-                    stack.pop()
-                else:
-                    return False
-            else:
+            if char in bracket_map.values():
                 stack.append(char)
-        return len(stack) == 0
+            elif char in bracket_map:
+                if not stack or stack[-1] != bracket_map[char]:
+                    return False
+                stack.pop()
+            else:
+                return False  # jika ada karakter aneh (tidak dibutuhkan di soal ini)
+
+        return not stack  # harus kosong di akhir
