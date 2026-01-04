@@ -3,17 +3,15 @@
  * @return {number}
  */
 var climbStairs = function(n) {
-    let one = 1
-    let two = 1
-    let temp
-    let i = 0
+    if(n==1) return 1
+    if(n==2) return 2
 
-    while(i < n - 1){
-        temp = one
-        one = one + two
-        two = temp
-        i++
+    let dp = new Array(n+1)
+    dp[1] = 1
+    dp[2] = 2
 
+    for(let i = 3; i <= n; i++){
+        dp[i] = dp[i-1] + dp[i-2]
     }
-    return one
+    return dp[n]
 };
