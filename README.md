@@ -4,17 +4,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0039-combination-sum](https://github.com/abyansetya/LeetCode---Solved/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/abyansetya/LeetCode---Solved/tree/master/0078-subsets) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0039-combination-sum](https://github.com/abyansetya/LeetCode---Solved/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/abyansetya/LeetCode---Solved/tree/master/0078-subsets) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/abyansetya/LeetCode---Solved/tree/master/0078-subsets) |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/abyansetya/LeetCode---Solved/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
