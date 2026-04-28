@@ -37,5 +37,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abyansetya/LeetCode---Solved/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/abyansetya/LeetCode---Solved/tree/main/0006-zigzag-conversion/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abyansetya/LeetCode---Solved/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abyansetya/LeetCode---Solved/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
