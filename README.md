@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/abyansetya/LeetCode---Solved/tree/main/0011-container-with-most-water/) | Medium |
 | [0039-combination-sum](https://github.com/abyansetya/LeetCode---Solved/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/abyansetya/LeetCode---Solved/tree/master/0078-subsets) |
 ## Backtracking
@@ -43,8 +44,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abyansetya/LeetCode---Solved/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/abyansetya/LeetCode---Solved/tree/main/0011-container-with-most-water/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abyansetya/LeetCode---Solved/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/abyansetya/LeetCode---Solved/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
