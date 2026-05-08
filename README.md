@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/abyansetya/LeetCode---Solved/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/abyansetya/LeetCode---Solved/tree/main/0011-container-with-most-water/) | Medium |
 | [0039-combination-sum](https://github.com/abyansetya/LeetCode---Solved/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/abyansetya/LeetCode---Solved/tree/master/0078-subsets) |
@@ -53,4 +54,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/abyansetya/LeetCode---Solved/tree/main/0011-container-with-most-water/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/abyansetya/LeetCode---Solved/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
