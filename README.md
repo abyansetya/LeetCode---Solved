@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abyansetya/LeetCode---Solved/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/abyansetya/LeetCode---Solved/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/abyansetya/LeetCode---Solved/tree/main/0014-longest-common-prefix/) | Easy |
 | [0039-combination-sum](https://github.com/abyansetya/LeetCode---Solved/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/abyansetya/LeetCode---Solved/tree/master/0078-subsets) |
 ## Backtracking
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abyansetya/LeetCode---Solved/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/abyansetya/LeetCode---Solved/tree/main/0006-zigzag-conversion/) | Medium |
+| [0014-longest-common-prefix](https://github.com/abyansetya/LeetCode---Solved/tree/main/0014-longest-common-prefix/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abyansetya/LeetCode---Solved/tree/main/0001-two-sum/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/abyansetya/LeetCode---Solved/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
