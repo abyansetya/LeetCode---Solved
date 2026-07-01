@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/abyansetya/LeetCode---Solved/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/abyansetya/LeetCode---Solved/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/abyansetya/LeetCode---Solved/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/abyansetya/LeetCode---Solved/tree/main/0020-valid-parentheses/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/abyansetya/LeetCode---Solved/tree/main/0015-3sum/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/abyansetya/LeetCode---Solved/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
